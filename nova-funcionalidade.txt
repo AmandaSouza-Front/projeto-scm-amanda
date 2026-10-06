@@ -1,0 +1,5 @@
+Projeto de Gerenciamento de Configuração de Software
+
+Aluna: Amanda Souza
+
+Nova funcionalidade criada para demonstrar o gerenciamento de artefatos com Git e GitHub.
